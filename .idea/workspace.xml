@@ -29,12 +29,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64f244da-6628-4b70-a776-72e86d3ad7c6" name="Default" comment="assignment3">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/deitel/twittersearches/FragmentAddBox.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/deitel/twittersearches/FragmentList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/deitel/twittersearches/FragmentWeb.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_add_box.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_list.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TwitterSearches.iws" />
@@ -146,8 +140,8 @@
       <file leaf-file-name="FragmentWeb.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/deitel/twittersearches/FragmentWeb.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20421052" vertical-offset="1145" max-vertical-offset="1840">
-              <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.5431579" vertical-offset="1145" max-vertical-offset="1840">
+              <caret line="69" column="21" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -869,8 +863,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="118" />
-    <option name="y" value="28" />
+    <option name="x" value="401" />
+    <option name="y" value="59" />
     <option name="width" value="1382" />
     <option name="height" value="662" />
   </component>
@@ -1181,12 +1175,16 @@
       <created>1427015838421</created>
       <updated>1427015838421</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="assignment3">
+      <created>1427016013373</created>
+      <updated>1427016013373</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="118" y="28" width="1382" height="662" extended-state="0" />
-    <editor active="true" />
+    <frame x="401" y="59" width="1382" height="662" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1207,7 +1205,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25113463" sideWeight="0.4989605" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25113463" sideWeight="0.4989605" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.025742574" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1603,8 +1601,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/deitel/twittersearches/FragmentWeb.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20421052" vertical-offset="1145" max-vertical-offset="1840">
-          <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.5431579" vertical-offset="1145" max-vertical-offset="1840">
+          <caret line="69" column="21" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
           <folding />
         </state>
       </provider>
